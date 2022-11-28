@@ -3,20 +3,21 @@ body {
 }
 
 .card-title {
-  font-size: 8rem;
+  font-size: 6rem;
+  font-weight: 700;
 }
 p {
   font-size: 4rem;
 }
 
 #qOnScreen {
-  margin: 0;
+  margin: 2rem 0;
 }
 #genNewQ {
-  margin: 0;
+  margin: 5rem 0;
 }
 #title {
-  margin: 5rem 0;
+  margin: 4rem 0 0 0;
 }
 .questionDisplay {
   margin: 0;
