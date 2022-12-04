@@ -4,7 +4,7 @@ const questions = [
 "Why do you adopt these comparables even there is an obvious difference between reference unit size and compabale unit size?",
 "Why don't you select adopted comparables for pair comp analysis of quantum adjustment?",
 "Why do you adopt comparables located on such low floor level when compared with reference unit? This gives rise to high floor adjustment so still valid?",
-"What do you mean actual floor level?",
+"What do you mean actual floor level?"
 // "How do you perform development scale adjustment?",
 // "How do you arrive at the net consideration? What cash rebates/discounts are deducted? Show me detailed working of calculation",
 // "Why do you adopt different cost unit rate for apartment and balcony and utility platform? Is it fair to adopt different rates?",
